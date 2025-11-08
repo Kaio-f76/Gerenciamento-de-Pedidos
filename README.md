@@ -1,8 +1,8 @@
-# Sistema de Gerenciamento de Pedidos em uma Rede de Restaurantes
+# Aplicativo de Gerenciamento de Tarefas para Desenvolvedores.
 
 ## Visão Geral do Projeto
 
-Este projeto tem como objetivo desenvolver um **sistema de gerenciamento de pedidos** para uma rede de restaurantes, com foco em **eficiência operacional**, **segurança de dados** e **usabilidade**.
+Este projeto tem como objetivo desenvolver um **aplicativo de Gerenciamento de Tarefas para Desenvolvedores**, com foco em **eficiência operacional**, **segurança de dados** e **usabilidade**.
 
 O documento atual descreve a **fase de preparação e concepção**, incluindo o **Plano de Gerenciamento da Qualidade**, que norteará as próximas etapas de desenvolvimento, testes e implantação.
 
